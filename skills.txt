@@ -1,0 +1,7 @@
+1 . MySQL
+2 . WordPress
+3 . Figma
+4 . Laravel
+5 . Bootstrap
+6 . jQuery
+7 . GitHub
